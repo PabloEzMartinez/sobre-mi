@@ -1,0 +1,37 @@
+/*aplicando estilo al contenido principal*/
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: wheat;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+}
+
+/* aplicando estilo al titulo */
+header {
+    background-color: darkolivegreen;
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
+
+/* aplicando estilo al link al curso */
+nav {
+    background-color: darkolivegreen;
+    color: black;
+    text-align: center;
+}
+
+article h2 {
+    margin-left: 20px;
+}
+
+article ul {
+    margin-left: 20px;
+}
+
+article p {
+    margin-left: 20px;
+}
+
+
